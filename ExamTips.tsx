@@ -47,12 +47,13 @@ const ExamTips: React.FC = () => {
 
 <iframe
   className="w-full aspect-video"
-  src="https://youtu.be/cQ0ZJ-oKL1Q?si=y3kmko-oWa2Ipyg-
+  src="https://www.youtube.com/embed/cQ0ZJ-oKL1Q"
   title="RGPV Exam Preparation Tips"
   frameBorder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 ></iframe>
+
 
       </div>
 
